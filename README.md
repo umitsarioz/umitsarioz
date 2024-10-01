@@ -1,7 +1,10 @@
-## Hi there 👋
+<p>
+  <h1 align="center"><b>Hi there, I'm <a href="https://www.linkedin.com/in/umitsarioz/">Ümit Sarıöz</a> 👋</b></h1>
+</p>
+
 
 <!--
-**umitsarioz/umitsarioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nshidqi/nshidqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently interested in Applied Artificial Intelligence (AI), Machine Learning (ML) & Deep Learning (DL), Data Science (DS), Data Enthusiast & Large Language Models.
+- 🔭 I have experience in diverse areas related to Network, Telco, Autotech & E-commerce.
+- 📫 You can reach me at this [e-mail](mailto:umitsariozz@gmail.com?subject=Hi,%20Ümit)
+
+-----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umitsarioz&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
