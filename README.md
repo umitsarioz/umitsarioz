@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently interested in Applied Artificial Intelligence (AI), Machine Learning (ML) & Deep Learning (DL), Data Science (DS), Data Enthusiast & Large Language Models.
+- 🌱 I’m currently interested in Artificial Intelligence (AI), Machine Learning (ML) & Deep Learning (DL), Data Science (DS), Data Enthusiast & Large Language Models.
 - 🔭 I have experience in diverse areas related to Network, Telco, Autotech & E-commerce.
 - 📫 You can reach me at this [e-mail](mailto:umitsariozz@gmail.com?subject=Hi,%20Ümit)
 
